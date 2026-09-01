@@ -1,0 +1,9 @@
+.env
+*.env
+*api_key*
+*apikey*
+*token*
+*secret*
+.DS_Store
+__pycache__/
+*.pyc
