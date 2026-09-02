@@ -1,0 +1,11 @@
+[
+  {
+    "name": "1인가구비율(시도/시/군/구) - 통계청 인구총조사",
+    "url": "https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL21161",
+    "provider": "국가데이터처(통계청), 인구총조사",
+    "access_method": "KOSIS Open API로 수집 완료. ORG_ID=101, TBL_ID=DT_1YL21161. 전국 값은 C1=00(행정구역별 코드), 항목은 T001(1인가구 수)/T002(일반가구 수)/T10(1인가구비율 %).",
+    "years_covered": "2000, 2005, 2010, 2015, 2016-2025(매년)",
+    "auth_required": true,
+    "status": "수집 완료 (건강 주제와 동일한 KOSIS API 키 재사용, 새로 발급받지 않음)"
+  }
+]
